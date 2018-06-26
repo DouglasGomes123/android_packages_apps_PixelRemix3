@@ -61,7 +61,7 @@ LOCAL_AAPT_FLAGS := \
     --extra-packages android.support.v7.recyclerview
 
 LOCAL_MIN_SDK_VERSION := 26
-LOCAL_PACKAGE_NAME := crDroidHome3
+LOCAL_PACKAGE_NAME := PixelRemix3
 LOCAL_PRIVILEGED_MODULE := true
 LOCAL_OVERRIDES_PACKAGES := Home Launcher2 Launcher3
 
