@@ -83,7 +83,7 @@ LOCAL_PROTOC_FLAGS := --proto_path=$(LOCAL_PATH)/protos/ --proto_path=$(LOCAL_PA
 LOCAL_PROTO_JAVA_OUTPUT_PARAMS := enum_style=java
 
 LOCAL_MODULE_TAGS := optional
-LOCAL_MODULE := crdroidhome3_proto_lib
+LOCAL_MODULE := pixelremix3_proto_lib
 LOCAL_IS_HOST_MODULE := true
 LOCAL_STATIC_JAVA_LIBRARIES := host-libprotobuf-java-nano
 
